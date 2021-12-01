@@ -1,0 +1,11 @@
+{
+"bot":{
+"prefix":"!"
+},
+"status":{
+"text":"YOUR STATUS",
+"type":"PLAYING",  // avaiable are  watching,streaming,listening
+"status": "online", // avaiable are dnd,idle,invisble
+"time":"2" 
+}
+}
